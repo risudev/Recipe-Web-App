@@ -8,7 +8,7 @@ This project was built using **ReactJS**, **TailwindCSS**, and **Axios**, and de
 
 ## 🔗 Live Demo
 
-🌍 [View Live on Netlify](https://your-recipe-app.netlify.app)
+🌍 [View Live on Netlify](https://recipewebapplication.netlify.app/)
 
 ---
 
@@ -48,10 +48,14 @@ Meals are fetched from [TheMealDB](https://www.themealdb.com/api.php)
 ---
 
 
+<<<<<<< HEAD
 ## Screenshots
 
 ![Web Page](/public/Webpage.png)
 ![Categories Page](/public/Category.png)
+=======
+
+>>>>>>> 79b0c4eb13361ccaea85ad617d39f96639e977fd
 
 📌 Author
 
