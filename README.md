@@ -47,6 +47,12 @@ Meals are fetched from [TheMealDB](https://www.themealdb.com/api.php)
 
 ---
 
+
+## Screenshots
+
+![Web Page](/public/Webpage.png)
+![Categories Page](/public/Category.png)
+
 📌 Author
 
 Built with ❤️ by Riswan
