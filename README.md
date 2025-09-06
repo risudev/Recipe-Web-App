@@ -47,8 +47,7 @@ Meals are fetched from [TheMealDB](https://www.themealdb.com/api.php)
 
 ---
 
-![Alt text describing the image](relative/path/to/image.png)
-![Alt text describing the image](relative/path/to/image.png)
+
 
 
 📌 Author
